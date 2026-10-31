@@ -1,0 +1,10 @@
+str_num = "123"
+int_num = int(str_num)
+float_num = float(str_num)
+str_num = str(str_num)
+print(int_num)
+print(float_num)
+print(str_num)
+print(type(int_num))
+print(type(float_num))
+print(type(str_num))
